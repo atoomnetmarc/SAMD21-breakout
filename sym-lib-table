@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "power-extra")(type "KiCad")(uri "${ATOOMNETKICAD}/symbols/power-extra.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_Microchip_SAMD-extra")(type "KiCad")(uri "${ATOOMNETKICAD}/symbols/MCU_Microchip_SAMD-extra.kicad_sym")(options "")(descr ""))
+)
