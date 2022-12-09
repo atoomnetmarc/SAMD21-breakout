@@ -510,8 +510,9 @@
     (tags "mounting hole 2.2mm no annular m2 din965")
     (property "Sheetfile" "SAMD21 breakout.kicad_sch")
     (property "Sheetname" "")
+    (property "exclude_from_bom" "")
     (path "/06312125-d06f-42b2-b0bc-67cc8dbd0a15")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "H3" (at 0 -2.9) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bfe6c2ea-fa3d-4937-ae3a-d6ad0f944ea4)
@@ -536,8 +537,9 @@
     (tags "mounting hole 2.2mm no annular m2 din965")
     (property "Sheetfile" "SAMD21 breakout.kicad_sch")
     (property "Sheetname" "")
+    (property "exclude_from_bom" "")
     (path "/7e747e4e-8a84-43d2-b0dc-6ce5b9ffa077")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "H2" (at 0 -2.9) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5b2c0e55-5d46-477f-94e4-015a776f4668)
@@ -766,8 +768,9 @@
     (tags "mounting hole 2.2mm no annular m2 din965")
     (property "Sheetfile" "SAMD21 breakout.kicad_sch")
     (property "Sheetname" "")
+    (property "exclude_from_bom" "")
     (path "/8fd04f9d-1cc5-496c-a9b3-77d22f33f42e")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "H4" (at 0 -2.9) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4f67685f-2199-4295-bc4e-42436e46a663)
@@ -916,8 +919,9 @@
     (tags "mounting hole 2.2mm no annular m2 din965")
     (property "Sheetfile" "SAMD21 breakout.kicad_sch")
     (property "Sheetname" "")
+    (property "exclude_from_bom" "")
     (path "/8bc0a66e-730c-48bc-984c-e9396d1048bd")
-    (attr exclude_from_pos_files)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "H1" (at 0 -2.9) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 03ee4a39-6c28-47f4-90e1-5cca7351c3ba)
